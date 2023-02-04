@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f233c20f.css",
+    "main.js": "/static/js/main.688bfc14.js",
+    "static/js/787.b33af434.chunk.js": "/static/js/787.b33af434.chunk.js",
+    "static/media/rajesh designs logo.png": "/static/media/rajesh designs logo.c3b2fa7bc638d58603e3.png",
+    "static/media/imageupload.png": "/static/media/imageupload.bcf141d325de695bc1ab.png",
+    "static/media/logo.png": "/static/media/logo.a05b5c44944e46b14eec.png",
+    "index.html": "/index.html",
+    "main.f233c20f.css.map": "/static/css/main.f233c20f.css.map",
+    "main.688bfc14.js.map": "/static/js/main.688bfc14.js.map",
+    "787.b33af434.chunk.js.map": "/static/js/787.b33af434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f233c20f.css",
+    "static/js/main.688bfc14.js"
+  ]
+}
